@@ -1,0 +1,9 @@
+torch
+Cython
+numpy
+madmom
+librosa
+pretty_midi
+mido
+mir_eval
+PyYAML
